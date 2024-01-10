@@ -1,0 +1,49 @@
+header {
+    color: black;
+    background-color: rgb(255, 254, 201);
+}
+
+div.quienes {
+    color: black;
+    background-color: rgb(255, 159, 48);
+}
+
+nav {
+    background-color: #94ff30;
+}
+
+div.bloque2 {
+    color: midnightblue;
+    background-color: rgb(255, 159, 48);
+}
+
+.fin {
+    color: black;
+    background-color: yellow;
+    margin: auto;
+    width: 200px;
+}
+
+.borde {
+    color:black;
+    background-color: midnightblue;
+}
+
+.caja {
+    background-color: rgb(233, 162, 255);
+    border: 2px solid black;
+    width: 250px;
+    height: 100px;
+    display: inline;
+}
+
+.blo{
+    width: 50%;
+}
+
+.linea{
+    display: inline;
+}
+p {
+    background-color: ye;
+}
